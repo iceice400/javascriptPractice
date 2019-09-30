@@ -1,0 +1,115 @@
+function exampleExercise(num1, num2){
+  // !!! This is an example exercise, we will show you how to complete the following exercises here. 
+  // !!! There is NO need to write any code for this exercise. 
+  // !!! This exercise ia ALREADY complete, Use this as reference to complete the others.
+  
+  // In this exercise, you will be given two variables, they will be called: num1 and num2
+  // On the next line create a variable called 'difference' and using math operators return num2 subrtracted from num1
+  const difference = num1 - num2;
+  
+  // Please write your answer in the line above.
+  return difference;
+}
+
+// ------- Please begin your work below this line: -------
+function exerciseOne(num1, num2){
+  // In this exercise, you will be given two variables, they will be called: num1 and num2
+  // On the next line create a variable called 'sum' and using math operators return num1 added to num2
+  
+  
+  // Please write your answer in the line above.
+  return sum;
+}
+
+function exerciseTwo(num1, num2){
+  // In this exercise, you will be given two variables, they will be called: num1 and num2
+  // On the next line create a variable called 'product' and using math operators return num1 multiplied by num2
+  
+  
+  // Please write your answer in the line above.
+  return product;
+}
+
+function exerciseThree(str){
+  // In this exercise, you will be given a variable, it will be called: str
+  // On the next line create a variable called 'length' and using the length property assign the new variable to the length of str
+  
+  
+  // Please write your answer in the line above.
+  return length;
+}
+
+function exerciseFour(num1){
+  // In this exercise, you will be given a variable, it will be called: num1
+  // On the next line create a variable called 'rounded'. Call the Math global object's round method, passing it num1, and assign it to the rounded variable.
+  
+  
+  // Please write your answer in the line above.
+  return rounded;
+}
+function exampleExercise(value){
+  // !!! This is an example exercise, we will show you how to complete the following exercises here. 
+  // !!! There is NO need to write any code for this exercise. 
+  // !!! This exercise is ALREADY complete, Use this as reference to complete the others.
+  
+  // In this exercise, you will be given a variable, it will be called: value
+  // On the next line create a variable called 'notEqualTo' and using a comparison operator, check to see if value is not equal to 'green'.
+  // Assign the results of that to 'notEqualTo'
+  let notEqualTo = value !== 'green';
+  
+  // Please write your answer in the line above.
+  return notEqualTo;
+}
+
+function exerciseOne(value){
+  // In this exercise, you will be given a variable, it will be called: value
+  // On the next line create a variable called 'greaterThan' and using a comparison operator, check to see if value is greater than 5.
+  // Assign the results of that to 'greaterThan'
+   let value = greaterThan;
+   if(value > 5)
+  
+  // Please write your answer in the line above.
+  return greaterThan;
+}
+
+function exerciseTwo(value){
+  // In this exercise, you will be given a variable, it will be called: value
+  // On the next line create a variable called 'lessThan' and using a comparison operator, check to see if value is less than 20.
+  // Assign the results of that to 'lessThan'
+  
+  
+  // Please write your answer in the line above.
+  return lessThan;
+}
+
+function exerciseThree(value){
+  // In this exercise, you will be given a variable, it will be called: value
+  // On the next line create a variable called 'equalTo' and using a comparison operator, check to see if value is equal to 37.
+  // Assign the results of that to 'equalTo'
+  
+  
+  // Please write your answer in the line above.
+  return equalTo;
+}
+
+function exerciseFour(value){
+  let greaterThanFive = false;
+  // In this exercise, you will be given a variable, it will be called: value
+  // You will also be given a variable named: greaterThanFive
+  // Using an 'if' statement check to see if the value is greater than 5. If it is, re-assign greaterThanFive the boolean true.
+  
+  
+  // Please write your answer in the line above.
+  return greaterThanFive;
+}
+
+function exerciseFive(name){
+  let isSondra = false;
+  // In this exercise, you will be given a variable, it will be called: name
+  // You will also be given a variable named: isSondra
+  // Using an 'if' statement check to see if the name is equal to the string 'Sondra'. If it is, re-assign isSondra the boolean true.
+  
+  
+  // Please write your answer in the line above.
+  return isSondra;
+}
