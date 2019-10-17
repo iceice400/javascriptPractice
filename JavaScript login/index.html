@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>JavaScript Login Form Validation</title>
+    <!--Include CSS File Here-->
+    <link rel="stylesheet" href="style.css" />
+    <!--Include JS File Here-->
+    <script>
+      src = "js/login.js";
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="main">
+        <h2>JavaScript Login Form Validation</h2>
+        <form id="form_id" method="post" name="myform">
+          <label>UserName :</label>
+          <input type="text" name="username" id="username" />
+          <label>Password :</label>
+          <input type="password" name="password" id="password" />
+          <input type="button" value="login" id="submit" onclick="validate()" />
+        </form>
+        <span
+          ><b class="note">Note : </b>Use the following username and password.
+          <br /><b class="valid"
+            >UserName : Admin<br />Password : DefaultPassword</b
+          ></span
+        >
+      </div>
+    </div>
+  </body>
+</html>
